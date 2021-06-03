@@ -13,7 +13,10 @@ gallery_images:
 
 This is the first project that I ever worked on solo. 
 
-I've always had an interest in cars. Whenever it came time to choose my final university project I wanted to 
+Whenever it came time to choose my final university project I wanted to devlop a project that I came up with and something that I would be interested in. I've always had an interest in cars and am fascinated by the telemetry that F1 teams are able to receive from their vehicles and determine how the car is performing.
+
+The project was developed using Java and Android Studio.
+
 ![](/images/demo.jpg)
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
